@@ -46,29 +46,34 @@ p1 {
     font-family: 'Noto Sans', sans-serif;
     font-size: 18px;
     font-weight: 700;
-     letter-spacing: .2em;
+    letter-spacing: .2em;
+    text-transform: uppercase;
 } 
 .btn2 {
     font-family: 'Noto Sans', sans-serif;
     font-size: 16px;
     font-weight: 700;
-     letter-spacing: .2em;  
+    letter-spacing: .2em;
+    text-transform: uppercase;  
 }
 .btn3 {
     font-family: 'Noto Sans', sans-serif;
     font-size: 14px;
     font-weight: 700;
     letter-spacing: .1em;
+    text-transform: uppercase;
 }
 .btn4 {
     font-family: 'Noto Sans', sans-serif;
     font-size: 12px;
     font-weight: 700;
     letter-spacing: .1em;
+    text-transform: uppercase;
 }
 .btn5 {
     font-family: 'Noto Sans', sans-serif;
     font-size: 10px;
     font-weight: 700;
     letter-spacing: .1em;
+    text-transform: uppercase;
 }
