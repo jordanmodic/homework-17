@@ -160,3 +160,7 @@ header {
     background-color: #FFD5C4;
     padding: 10px;
 }
+.footer.footer-items ul li a {
+    list-style: none;
+    text-decoration: none;
+}
