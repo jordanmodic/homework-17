@@ -94,7 +94,9 @@ p1 {
     font-family: 'Aleo', serif;
     font-size: 20px;
     font-weight: 400;
-     color: #747070;
+    color: #747070;
+    list-style: none;
+    text-decoration: none;
 }
 /*header*/
 header {
@@ -160,7 +162,15 @@ header {
     background-color: #FFD5C4;
     padding: 10px;
 }
-.footer.footer-items ul li a {
+.footer-container {
+    display: flex;
+    justify-content: space-between;
+    align-items: flex-start;
+    margin-top: 40px;
+    margin-left: 0 auto;
+    margin-right: 0 auto;
+    padding: 40px;
+}
+.footer-contact {
     list-style: none;
-    text-decoration: none;
 }
