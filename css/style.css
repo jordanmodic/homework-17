@@ -165,12 +165,13 @@ header {
 .footer-container {
     display: flex;
     justify-content: space-between;
-    align-items: flex-start;
-    margin-top: 40px;
-    margin-left: 0 auto;
-    margin-right: 0 auto;
-    padding: 40px;
+    align-items: center;
+    width: 80%;
+    margin: 3%;
+    padding: 2%;
 }
-.footer-contact {
-    list-style: none;
+.ft .ft-contact {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
 }
